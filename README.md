@@ -9,3 +9,9 @@ https://apple.stackexchange.com/questions/215410/os-x-el-capitan-cores-directory
 cp -X ...
 ```
 xattr只会生效一次， 下次再插上还是那样子
+
+## tree 乱码
+```
+tree -N
+```
+https://www.jianshu.com/p/52a4cedcfea0
