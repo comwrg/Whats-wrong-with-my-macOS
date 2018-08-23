@@ -15,3 +15,13 @@ xattr只会生效一次， 下次再插上还是那样子
 tree -N
 ```
 https://www.jianshu.com/p/52a4cedcfea0
+
+## sleepimage
+close hibernatemode
+```
+sudo pmset -a hibernatemode 0
+```
+show System-wide power settings
+```
+pmset -g
+```
