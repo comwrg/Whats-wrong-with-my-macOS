@@ -25,3 +25,6 @@ show System-wide power settings
 ```
 pmset -g
 ```
+
+## iterm2 换行
+https://apple.stackexchange.com/questions/90392/disable-line-wrapping-for-output-in-the-terminal/210666#210666
