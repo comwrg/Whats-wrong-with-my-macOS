@@ -28,3 +28,6 @@ pmset -g
 
 ## iterm2 换行
 https://apple.stackexchange.com/questions/90392/disable-line-wrapping-for-output-in-the-terminal/210666#210666
+
+## virtual memory
+https://apple.stackovernet.com/cn/q/15177
